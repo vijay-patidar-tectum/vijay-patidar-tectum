@@ -20,7 +20,7 @@
 
 - 🌱 I’m currently learning MsSQL, ML etc... 
 
-- 👯 I’m looking to collaborate on  
+- 👯 I’m looking to collaborate
 
 - 💬 Talk to me about ReactJS, NodeJS, MongoDB, MySQL, MsSQL, JavaScript, Freelancing Opportunites, Open Source... 
 
